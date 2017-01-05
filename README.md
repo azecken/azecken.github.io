@@ -10,7 +10,7 @@ heavily redesigned by [Nate Tarrh][4].
 resume.html has no external dependencies and a much cleaner 
 stylesheet.
 
-[1]: http://szecke01.github.com/resume/
+[1]: http://aron.zeckendorf.me
 [2]: http://sampleresumetemplate.net
 [3]: http://thingsthatarebrown.com
 [4]: http://natetarrh.com
